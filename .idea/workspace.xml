@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="178e6f2c-5f2a-4161-a890-73aafaf5e31f" name="Default Changelist" comment="Spring Boot CRUD example with Junit Assertion test case" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c9LHY3XsuxO7yUQDTK0XzZgadM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.StellarApplicationTests">
+    <configuration name="StellarApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="stellar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.honeywell.stellar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.honeywell.stellar" />
+      <option name="MAIN_CLASS_NAME" value="com.honeywell.stellar.StellarApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StellarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="stellar" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.honeywell.stellar.StellarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StellarApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="178e6f2c-5f2a-4161-a890-73aafaf5e31f" name="Default Changelist" comment="" />
+      <created>1589935775671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589935775671</updated>
+      <workItem from="1589935781296" duration="8348000" />
+      <workItem from="1589952641787" duration="5082000" />
+      <workItem from="1589958448592" duration="1665000" />
+    </task>
+    <task id="LOCAL-00001" summary="Spring Boot CRUD example with Junit Assertion test case">
+      <created>1589958599609</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589958599609</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spring Boot CRUD example with Junit Assertion test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring Boot CRUD example with Junit Assertion test case" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1589952719829">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1589952719829" />
+    <state x="756" y="77" key="#com.intellij.ide.util.MemberChooser" timestamp="1589957238450">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="756" y="77" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1589957238450" />
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1589958684581">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1589958684581" />
+    <state width="1237" height="270" key="GridCell.Tab.0.bottom" timestamp="1589958692889">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="270" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589958692889" />
+    <state width="1237" height="270" key="GridCell.Tab.0.center" timestamp="1589958692889">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="270" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589958692889" />
+    <state width="1237" height="270" key="GridCell.Tab.0.left" timestamp="1589958692889">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="270" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589958692889" />
+    <state width="1237" height="270" key="GridCell.Tab.0.right" timestamp="1589958692889">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="270" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589958692889" />
+    <state width="1237" height="199" key="GridCell.Tab.1.bottom" timestamp="1589958654639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589958654639" />
+    <state width="1237" height="199" key="GridCell.Tab.1.center" timestamp="1589958654639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589958654639" />
+    <state width="1237" height="199" key="GridCell.Tab.1.left" timestamp="1589958654638">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589958654638" />
+    <state width="1237" height="199" key="GridCell.Tab.1.right" timestamp="1589958654639">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="199" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589958654639" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1589950808138">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1589950808138" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1589952453039">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589952453039" />
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589952711424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589952711424" />
+    <state x="297" y="151" key="run.anything.popup" timestamp="1589953602414">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589953602414" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/honeywell/stellar/StellarApplicationTests.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
